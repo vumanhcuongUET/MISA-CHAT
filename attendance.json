@@ -1,7 +1,16 @@
 [
     {
-        "EmployeeCode": "B-0588",
         "FullName": "Hồ Nam Anh",
+        "ShortName": "Hồ Nam Anh",
+        "CreatedDate": "2024-02-14T20:29:10.654+07:00",
+        "FromDate": "2024-02-15T08:00:00.000+07:00",
+        "ToDate": "2024-02-16T17:30:00.000+07:00",
+        "FromDateFormat": "15-02-2024 08:00:00",
+        "ToDateFormat": "16-02-2024 17:30:00"
+    },
+    {
+        "FullName": "Hồ Nam Anh",
+        "ShortName": "Hồ Nam Anh",
         "CreatedDate": "2024-01-18T18:41:02.734+07:00",
         "FromDate": "2024-01-19T08:00:01.000+07:00",
         "ToDate": "2024-01-19T17:30:00.000+07:00",
@@ -9,8 +18,8 @@
         "ToDateFormat": "19-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-02-01T16:13:09.800+07:00",
         "FromDate": "2024-02-16T08:00:00.000+07:00",
         "ToDate": "2024-02-16T17:30:00.000+07:00",
@@ -18,8 +27,8 @@
         "ToDateFormat": "16-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-02-01T16:12:44.457+07:00",
         "FromDate": "2024-02-15T08:00:00.000+07:00",
         "ToDate": "2024-02-15T17:30:00.000+07:00",
@@ -27,8 +36,8 @@
         "ToDateFormat": "15-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-02-01T07:48:00.839+07:00",
         "FromDate": "2024-02-01T08:00:00.000+07:00",
         "ToDate": "2024-02-01T12:30:00.000+07:00",
@@ -36,8 +45,8 @@
         "ToDateFormat": "01-02-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-01-11T07:50:18.694+07:00",
         "FromDate": "2024-01-11T08:00:00.000+07:00",
         "ToDate": "2024-01-11T12:30:00.000+07:00",
@@ -45,8 +54,8 @@
         "ToDateFormat": "11-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-01-07T23:47:24.128+07:00",
         "FromDate": "2024-01-08T08:00:00.000+07:00",
         "ToDate": "2024-01-08T12:30:00.000+07:00",
@@ -54,8 +63,8 @@
         "ToDateFormat": "08-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1155",
         "FullName": "Lê Đức Trung Anh",
+        "ShortName": "Lê Đức Trung Anh",
         "CreatedDate": "2024-01-03T08:26:32.215+07:00",
         "FromDate": "2024-01-03T08:00:00.000+07:00",
         "ToDate": "2024-01-03T12:30:00.000+07:00",
@@ -63,8 +72,17 @@
         "ToDateFormat": "03-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1224",
         "FullName": "Nguyễn Văn Sơn",
+        "ShortName": "Nguyễn Văn Sơn",
+        "CreatedDate": "2024-02-20T07:49:33.782+07:00",
+        "FromDate": "2024-02-20T08:00:00.000+07:00",
+        "ToDate": "2024-02-20T12:00:00.000+07:00",
+        "FromDateFormat": "20-02-2024 08:00:00",
+        "ToDateFormat": "20-02-2024 12:00:00"
+    },
+    {
+        "FullName": "Nguyễn Văn Sơn",
+        "ShortName": "Nguyễn Văn Sơn",
         "CreatedDate": "2024-01-22T14:21:29.153+07:00",
         "FromDate": "2024-01-22T08:00:00.000+07:00",
         "ToDate": "2024-01-22T12:30:00.000+07:00",
@@ -72,8 +90,8 @@
         "ToDateFormat": "22-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1224",
         "FullName": "Nguyễn Văn Sơn",
+        "ShortName": "Nguyễn Văn Sơn",
         "CreatedDate": "2024-01-17T07:10:55.805+07:00",
         "FromDate": "2024-01-17T08:00:00.000+07:00",
         "ToDate": "2024-01-17T12:30:00.000+07:00",
@@ -81,8 +99,8 @@
         "ToDateFormat": "17-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-1224",
         "FullName": "Nguyễn Văn Sơn",
+        "ShortName": "Nguyễn Văn Sơn",
         "CreatedDate": "2024-01-09T07:13:19.215+07:00",
         "FromDate": "2024-01-09T08:00:00.000+07:00",
         "ToDate": "2024-01-09T12:30:00.000+07:00",
@@ -90,8 +108,8 @@
         "ToDateFormat": "09-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-0970",
         "FullName": "Phan Chính Quốc",
+        "ShortName": "Phan Chính Quốc",
         "CreatedDate": "2024-01-29T12:56:15.084+07:00",
         "FromDate": "2024-01-29T13:30:00.000+07:00",
         "ToDate": "2024-01-29T17:30:00.000+07:00",
@@ -99,8 +117,8 @@
         "ToDateFormat": "29-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0970",
         "FullName": "Phan Chính Quốc",
+        "ShortName": "Phan Chính Quốc",
         "CreatedDate": "2024-01-17T18:54:57.113+07:00",
         "FromDate": "2024-01-18T08:00:00.000+07:00",
         "ToDate": "2024-01-18T12:00:00.000+07:00",
@@ -108,8 +126,8 @@
         "ToDateFormat": "18-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B-0970",
         "FullName": "Phan Chính Quốc",
+        "ShortName": "Phan Chính Quốc",
         "CreatedDate": "2024-01-17T15:21:29.687+07:00",
         "FromDate": "2024-01-17T08:00:00.000+07:00",
         "ToDate": "2024-01-17T17:30:00.000+07:00",
@@ -117,8 +135,8 @@
         "ToDateFormat": "17-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0821",
         "FullName": "Phan Thị Thùy Ngân",
+        "ShortName": "Phan Thị Thùy Ngân",
         "CreatedDate": "2024-02-02T10:58:03.570+07:00",
         "FromDate": "2024-02-02T13:30:00.000+07:00",
         "ToDate": "2024-02-02T17:30:00.000+07:00",
@@ -126,8 +144,8 @@
         "ToDateFormat": "02-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0821",
         "FullName": "Phan Thị Thùy Ngân",
+        "ShortName": "Phan Thị Thùy Ngân",
         "CreatedDate": "2024-01-23T07:27:55.611+07:00",
         "FromDate": "2024-01-23T08:00:00.000+07:00",
         "ToDate": "2024-01-23T17:30:00.000+07:00",
@@ -135,8 +153,8 @@
         "ToDateFormat": "23-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0821",
         "FullName": "Phan Thị Thùy Ngân",
+        "ShortName": "Phan Thị Thùy Ngân",
         "CreatedDate": "2024-01-10T08:03:26.335+07:00",
         "FromDate": "2024-01-10T08:00:00.000+07:00",
         "ToDate": "2024-01-10T17:30:00.000+07:00",
@@ -144,8 +162,8 @@
         "ToDateFormat": "10-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1163",
         "FullName": "Phùng Quang Vinh",
+        "ShortName": "Phùng Quang Vinh",
         "CreatedDate": "2024-01-29T08:48:13.086+07:00",
         "FromDate": "2024-01-29T08:00:00.000+07:00",
         "ToDate": "2024-01-29T12:00:00.000+07:00",
@@ -153,8 +171,8 @@
         "ToDateFormat": "29-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B-1163",
         "FullName": "Phùng Quang Vinh",
+        "ShortName": "Phùng Quang Vinh",
         "CreatedDate": "2024-01-10T07:02:40.783+07:00",
         "FromDate": "2024-01-10T08:00:00.000+07:00",
         "ToDate": "2024-01-10T12:00:00.000+07:00",
@@ -162,8 +180,8 @@
         "ToDateFormat": "10-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B-1163",
         "FullName": "Phùng Quang Vinh",
+        "ShortName": "Phùng Quang Vinh",
         "CreatedDate": "2024-01-02T13:49:56.879+07:00",
         "FromDate": "2024-01-02T08:00:00.000+07:00",
         "ToDate": "2024-01-02T12:30:00.000+07:00",
@@ -171,8 +189,17 @@
         "ToDateFormat": "02-01-2024 12:30:00"
     },
     {
-        "EmployeeCode": "B-0879",
         "FullName": "Phùng Thị Sợi",
+        "ShortName": "Phùng Thị Sợi",
+        "CreatedDate": "2024-02-19T06:41:49.867+07:00",
+        "FromDate": "2024-02-19T08:00:00.000+07:00",
+        "ToDate": "2024-02-19T12:00:00.000+07:00",
+        "FromDateFormat": "19-02-2024 08:00:00",
+        "ToDateFormat": "19-02-2024 12:00:00"
+    },
+    {
+        "FullName": "Phùng Thị Sợi",
+        "ShortName": "Phùng Thị Sợi",
         "CreatedDate": "2024-01-26T20:02:47.760+07:00",
         "FromDate": "2024-01-29T08:00:00.000+07:00",
         "ToDate": "2024-01-29T12:00:00.000+07:00",
@@ -180,8 +207,8 @@
         "ToDateFormat": "29-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B-0879",
         "FullName": "Phùng Thị Sợi",
+        "ShortName": "Phùng Thị Sợi",
         "CreatedDate": "2024-01-02T12:46:51.095+07:00",
         "FromDate": "2024-01-02T13:30:00.000+07:00",
         "ToDate": "2024-01-02T17:30:00.000+07:00",
@@ -189,8 +216,17 @@
         "ToDateFormat": "02-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1272",
         "FullName": "Phạm Thị Ngọc",
+        "ShortName": "Phạm Thị Ngọc",
+        "CreatedDate": "2024-02-19T07:03:56.568+07:00",
+        "FromDate": "2024-02-19T08:00:00.000+07:00",
+        "ToDate": "2024-02-19T13:30:00.000+07:00",
+        "FromDateFormat": "19-02-2024 08:00:00",
+        "ToDateFormat": "19-02-2024 13:30:00"
+    },
+    {
+        "FullName": "Phạm Thị Ngọc",
+        "ShortName": "Phạm Thị Ngọc",
         "CreatedDate": "2024-02-02T11:43:29.549+07:00",
         "FromDate": "2024-02-02T13:30:00.000+07:00",
         "ToDate": "2024-02-02T17:30:00.000+07:00",
@@ -198,8 +234,8 @@
         "ToDateFormat": "02-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1272",
         "FullName": "Phạm Thị Ngọc",
+        "ShortName": "Phạm Thị Ngọc",
         "CreatedDate": "2024-01-25T20:03:33.766+07:00",
         "FromDate": "2024-01-26T08:00:00.000+07:00",
         "ToDate": "2024-01-26T17:30:00.000+07:00",
@@ -207,8 +243,8 @@
         "ToDateFormat": "26-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1272",
         "FullName": "Phạm Thị Ngọc",
+        "ShortName": "Phạm Thị Ngọc",
         "CreatedDate": "2024-01-10T06:47:06.983+07:00",
         "FromDate": "2024-01-10T08:00:00.000+07:00",
         "ToDate": "2024-01-10T13:30:00.000+07:00",
@@ -216,8 +252,8 @@
         "ToDateFormat": "10-01-2024 13:30:00"
     },
     {
-        "EmployeeCode": "B-1272",
         "FullName": "Phạm Thị Ngọc",
+        "ShortName": "Phạm Thị Ngọc",
         "CreatedDate": "2024-01-05T07:16:23.094+07:00",
         "FromDate": "2024-01-05T08:00:00.000+07:00",
         "ToDate": "2024-01-05T13:30:00.000+07:00",
@@ -225,8 +261,8 @@
         "ToDateFormat": "05-01-2024 13:30:00"
     },
     {
-        "EmployeeCode": "B-1170",
         "FullName": "Phạm Việt Dương",
+        "ShortName": "Phạm Việt Dương",
         "CreatedDate": "2024-01-22T06:34:28.176+07:00",
         "FromDate": "2024-01-22T08:00:00.000+07:00",
         "ToDate": "2024-01-22T13:30:00.000+07:00",
@@ -234,8 +270,8 @@
         "ToDateFormat": "22-01-2024 13:30:00"
     },
     {
-        "EmployeeCode": "B06-0062",
         "FullName": "Phạm Đăng Tú",
+        "ShortName": "Phạm Đăng Tú",
         "CreatedDate": "2024-01-15T07:53:47.367+07:00",
         "FromDate": "2024-01-15T12:00:00.000+07:00",
         "ToDate": "2024-01-15T17:30:00.000+07:00",
@@ -243,8 +279,8 @@
         "ToDateFormat": "15-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B06-0062",
         "FullName": "Phạm Đăng Tú",
+        "ShortName": "Phạm Đăng Tú",
         "CreatedDate": "2024-01-10T09:59:24.249+07:00",
         "FromDate": "2024-01-10T08:00:00.000+07:00",
         "ToDate": "2024-01-10T12:00:00.000+07:00",
@@ -252,8 +288,8 @@
         "ToDateFormat": "10-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B06-0062",
         "FullName": "Phạm Đăng Tú",
+        "ShortName": "Phạm Đăng Tú",
         "CreatedDate": "2024-01-03T20:01:36.995+07:00",
         "FromDate": "2024-01-03T12:00:00.000+07:00",
         "ToDate": "2024-01-03T17:30:00.000+07:00",
@@ -261,8 +297,8 @@
         "ToDateFormat": "03-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B06-0062",
         "FullName": "Phạm Đăng Tú",
+        "ShortName": "Phạm Đăng Tú",
         "CreatedDate": "2024-01-03T07:17:50.519+07:00",
         "FromDate": "2024-01-03T08:00:00.000+07:00",
         "ToDate": "2024-01-03T12:00:00.000+07:00",
@@ -270,8 +306,17 @@
         "ToDateFormat": "03-01-2024 12:00:00"
     },
     {
-        "EmployeeCode": "B-0841",
         "FullName": "Vũ Minh Hoàng",
+        "ShortName": "Vũ Minh Hoàng",
+        "CreatedDate": "2024-02-19T17:58:23.318+07:00",
+        "FromDate": "2024-02-21T08:00:00.000+07:00",
+        "ToDate": "2024-02-21T12:00:00.000+07:00",
+        "FromDateFormat": "21-02-2024 08:00:00",
+        "ToDateFormat": "21-02-2024 12:00:00"
+    },
+    {
+        "FullName": "Vũ Minh Hoàng",
+        "ShortName": "Vũ Minh Hoàng",
         "CreatedDate": "2024-02-02T08:17:18.702+07:00",
         "FromDate": "2024-02-06T08:00:00.000+07:00",
         "ToDate": "2024-02-07T17:30:00.000+07:00",
@@ -279,8 +324,8 @@
         "ToDateFormat": "07-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0841",
         "FullName": "Vũ Minh Hoàng",
+        "ShortName": "Vũ Minh Hoàng",
         "CreatedDate": "2024-01-25T23:31:19.044+07:00",
         "FromDate": "2024-01-26T13:30:00.000+07:00",
         "ToDate": "2024-01-26T17:30:00.000+07:00",
@@ -288,8 +333,8 @@
         "ToDateFormat": "26-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-1110",
         "FullName": "Vũ Mạnh Cường",
+        "ShortName": "Vũ Mạnh Cường",
         "CreatedDate": "2024-01-18T22:07:53.163+07:00",
         "FromDate": "2024-01-19T13:30:00.000+07:00",
         "ToDate": "2024-01-19T17:30:00.000+07:00",
@@ -297,8 +342,17 @@
         "ToDateFormat": "19-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0721",
         "FullName": "Vương Văn An",
+        "ShortName": "Vương Văn An",
+        "CreatedDate": "2024-02-14T15:18:29.871+07:00",
+        "FromDate": "2024-02-15T08:00:00.000+07:00",
+        "ToDate": "2024-02-16T17:30:00.000+07:00",
+        "FromDateFormat": "15-02-2024 08:00:00",
+        "ToDateFormat": "16-02-2024 17:30:00"
+    },
+    {
+        "FullName": "Vương Văn An",
+        "ShortName": "Vương Văn An",
         "CreatedDate": "2024-02-07T09:44:21.822+07:00",
         "FromDate": "2024-02-07T08:00:00.000+07:00",
         "ToDate": "2024-02-07T17:30:00.000+07:00",
@@ -306,8 +360,8 @@
         "ToDateFormat": "07-02-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0721",
         "FullName": "Vương Văn An",
+        "ShortName": "Vương Văn An",
         "CreatedDate": "2024-01-31T12:20:57.208+07:00",
         "FromDate": "2024-01-31T13:30:00.000+07:00",
         "ToDate": "2024-01-31T17:30:00.000+07:00",
@@ -315,8 +369,8 @@
         "ToDateFormat": "31-01-2024 17:30:00"
     },
     {
-        "EmployeeCode": "B-0721",
         "FullName": "Vương Văn An",
+        "ShortName": "Vương Văn An",
         "CreatedDate": "2024-01-04T07:31:56.485+07:00",
         "FromDate": "2024-01-04T08:00:00.000+07:00",
         "ToDate": "2024-01-04T12:00:00.000+07:00",
